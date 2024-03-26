@@ -67,10 +67,10 @@ Testing the webserver.
 
 
 ## OUTPUT:
+![image](https://github.com/IMRAAN2005/simplewebserver/assets/149347407/2c090e3f-f885-4b4d-8df0-5d173ec6d21a)
 
-![WhatsApp Image 2024-03-25 at 14 14 33_02817960](https://github.com/IMRAAN2005/simplewebserver/assets/149347407/5f68aac4-cbf0-41ba-94b9-7a89c89772d1)
+![image](https://github.com/IMRAAN2005/simplewebserver/assets/149347407/7d21c331-3291-420e-8728-054b21d51d55)
 
-![WhatsApp Image 2024-03-25 at 14 15 19_7b03ef7b](https://github.com/IMRAAN2005/simplewebserver/assets/149347407/3054342e-3085-4dcf-8044-fd4aa4f55254)
 
 
 ## RESULT:
